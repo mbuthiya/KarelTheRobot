@@ -1,0 +1,14 @@
+# Karel the Robot
+
+A series of Java based challenges using Karel the Robot
+
+## Getting Started
+1. You need to have Eclipse IDE installed
+2. Download the stanford eclipse plugin 
+3. Run the individual ```bash .java``` files
+
+### Preriquisites
+
+### Challenge 1: Collect Newspaper
+Write commands that will allow Karel the robot to collect a newspaper from 
+his doorstep and return to his original position
